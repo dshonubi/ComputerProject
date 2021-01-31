@@ -1,0 +1,1 @@
+Add gr17.txt as a variable in run configurations.
